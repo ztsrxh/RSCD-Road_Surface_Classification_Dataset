@@ -36,7 +36,7 @@ Figure 4. Number of images for each class. (a) number of the top 13 classes (b) 
 
 # How to Use
 
-The RSCD is completely open to academic research. To use the dataset, please cite:
+The RSCD is completely open to academic research. RSCD is firstly published in journal *Data in Brief*. To use the dataset, please cite:
 
 Tong Zhao, Yintao Wei, A road surface image dataset with detailed annotations for driving assistance applications, Data in Brief, 2022. doi: 10.1016/j.dib.2022.108483
 
