@@ -38,7 +38,7 @@ Figure 4. Number of images for each class. (a) number of the top 13 classes (b) 
 
 The RSCD is completely open to academic research. To use the dataset, please cite:
 
-Tong Zhao, Yintao Wei, A road surface image dataset with detailed annotations for driving assistance applications, Data in Brief, 2022. doi: 10.1016/j.dib.2022.108483
+    Tong Zhao, Yintao Wei, A road surface image dataset with detailed annotations for driving assistance applications, Data in Brief, 2022. doi: 10.1016/j.dib.2022.108483
 
 Any questions, please contact us: zhaot20@mails.tsinghua.edu.cn
 
