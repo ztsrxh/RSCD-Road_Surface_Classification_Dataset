@@ -50,6 +50,4 @@ Any questions, please contact us: zhaot20@mails.tsinghua.edu.cn
 
 # Download RSCD
 
-Google Drive:
-
-[Download](https://drive.google.com/file/d/10lQfIWUy1V1UIabfmyTeR0U5hLE4Mj6K)
+Google Drive: [Download](https://drive.google.com/file/d/10lQfIWUy1V1UIabfmyTeR0U5hLE4Mj6K)
