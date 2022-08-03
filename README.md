@@ -52,6 +52,7 @@ Any questions, please contact us: zhaot20@mails.tsinghua.edu.cn
 
 Google Drive: [Download](https://drive.google.com/file/d/10lQfIWUy1V1UIabfmyTeR0U5hLE4Mj6K)
 
+Figsahre: [Download](https://doi.org/10.6084/m9.figshare.20424582.v1)
 # Baseline
 
 Coming soon!
