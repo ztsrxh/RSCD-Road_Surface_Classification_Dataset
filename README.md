@@ -39,6 +39,9 @@ Figure 3. Sample images of part of the classes. (a). dry-asphalt-smooth (b). dry
 ![](img/a069d465da1211286ec077aea196e301.jpeg)
 
 Figure 4. Number of images for each class.
+  
+  
+The dataset is divided into train-set(~960k samples), validation-set(~20k samples), test-set(~50k samples).    
 
 # How to Use
 
@@ -52,7 +55,7 @@ Any questions, please contact us: zhaot20@mails.tsinghua.edu.cn
 
 Google Drive: [Download](https://drive.google.com/file/d/10lQfIWUy1V1UIabfmyTeR0U5hLE4Mj6K)
 
-Figshare: [Download](https://doi.org/10.6084/m9.figshare.20424582.v1)
+Figshare: [Download](https://doi.org/10.6084/m9.figshare.20424582.v2)
 # Baseline
 
 Coming soon!
