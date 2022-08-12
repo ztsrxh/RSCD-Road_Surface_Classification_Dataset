@@ -57,4 +57,6 @@ Figshare: [Download](https://doi.org/10.6084/m9.figshare.20424582.v2)
 
 # Baseline
 
-Coming soon!
+| Backbone      | Top-1 accuracy |
+| :----------: | :-----------: |
+| Efficientnet-B0 | 88.45% |
