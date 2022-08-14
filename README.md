@@ -53,7 +53,7 @@ Any questions, please contact us: zhaot20@mails.tsinghua.edu.cn
 
 # Download RSCD
 
-Figshare: [Download](https://doi.org/10.6084/m9.figshare.20424582.v2)
+Figshare: [Download](https://doi.org/10.6084/m9.figshare.20424582.v3)
 
 # Baseline
 
