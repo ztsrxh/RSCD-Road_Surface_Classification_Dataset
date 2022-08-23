@@ -1,6 +1,6 @@
 # Background
 
-The knowledge of the road surface states is essential for improving the safety and the ride comfort of autonomous vehicles. Previewing the road conditions with vision sensor is verified to be an effective solution. However, there is still a lack of a large-scale road surface image dataset. Therefore, we publish this *Road Surface Classification Dataset (RSCD)* with detailed road material, friction and roughness level annotations.
+The knowledge of the road surface states is essential for improving the safety and the ride comfort of autonomous vehicles. Previewing the road conditions with vision sensor is verified to be an effective solution. However, there is still a lack of a large-scale road surface image dataset. Therefore, we publish this *Road Surface Classification Dataset (RSCD)*  containing 1 million image samples with detailed road material, friction and roughness level annotations.
 
 # Dataset Description
 
