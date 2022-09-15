@@ -42,6 +42,7 @@ Figure 4. Number of images for each class.
   
   
 The dataset is divided into train-set(~960k samples), validation-set(~20k samples), test-set(~50k samples).    
+
 Note： Since the experiments under rainny days are hard to conduct & label and also, the severely damaged roads are deficient, there is an inter-class imbalance problem of this dataset. The count of samples for these classes in the validation and test set are also less than others. We are concentrating on solving this problem, and the data collection for these classes are still ongoing. 
 
 # How to Use
