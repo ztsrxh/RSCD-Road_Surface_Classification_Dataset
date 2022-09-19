@@ -41,7 +41,7 @@ Figure 3. Sample images of part of the classes. (a). dry-asphalt-smooth (b). dry
 Figure 4. Number of images for each class.
   
   
-The dataset is divided into train-set(~960k samples), validation-set(~20k samples), test-set(~50k samples).    
+The dataset is divided into train-set(~960k samples), validation-set(~20k samples), test-set(~50k samples). The images belonging to the same class are in the same directory in the train set.  The test and validation datasets are randomly sampled and approximately obeys independent identical distribution with the train set.  We also provide the true labels for the test set.   
 
 Note： Since the experiments under rainny days are hard to conduct & label and also, the severely damaged roads are deficient, there is an inter-class imbalance problem of this dataset. The count of samples for these classes in the validation and test set are also less than others. We are concentrating on solving this problem, and the data collection for these classes are still ongoing. 
 
