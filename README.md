@@ -55,7 +55,9 @@ Tong Zhao, Yintao Wei, A road surface image dataset with detailed annotations fo
 
 # Download RSCD
 
-Figshare: [Download](https://doi.org/10.6084/m9.figshare.20424582.v3)
+Figshare: [Download](https://doi.org/10.6084/m9.figshare.20424582.v3) 
+
+天池: [Download](https://tianchi.aliyun.com/dataset/dataDetail?dataId=137537) (recommended for Chinese)
 
 # Baseline
 
