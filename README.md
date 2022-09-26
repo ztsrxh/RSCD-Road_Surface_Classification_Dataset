@@ -48,7 +48,7 @@ Note： Since the experiments under rainny days are hard to conduct & label and 
 
 # How to Use
 
-The RSCD is completely open to academic research. To use the dataset, please cite:
+The RSCD is completely open to academic research. To use the dataset, please cite the data artical:
 
 Tong Zhao, Yintao Wei, A road surface image dataset with detailed annotations for driving assistance applications, Data in Brief, 2022. doi: 10.1016/j.dib.2022.108483
 
