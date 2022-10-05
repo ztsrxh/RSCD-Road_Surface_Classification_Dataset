@@ -63,6 +63,6 @@ Figshare: [Download](https://doi.org/10.6084/m9.figshare.20424582.v3)
 
 | Backbone      | Top-1 accuracy |
 | :----------: | :-----------: |
-| Efficientnet-B0 | 85.60% |
+| MobilenetV3 | 85.60% |
 
 The net was simply trained with cross-entropy loss, without any tricks.
