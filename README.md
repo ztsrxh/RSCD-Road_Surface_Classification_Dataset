@@ -67,4 +67,4 @@ Figshare: [Download](https://doi.org/10.6084/m9.figshare.20424582.v3)
 | MobilenetV3 | 87.65% | 2.5|
 | Resnet18 |  86.67%  |   2       | 
 
-The nets was simply trained based on the pre-trained weights with cross-entropy loss, without any tricks.
+The nets was simply trained based on the pre-trained weights with cross-entropy loss for 5 epoches, without any tricks.
