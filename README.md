@@ -25,7 +25,8 @@ The friction level, material, and unevenness properties of roads are essential f
 -   The road material property consists of asphalt, concrete, mud, and gravel.
 -   The road unevenness is divided into smooth, slight unevenness, and severe unevenness according to the amplitude of the road undulation.
 
-The subclasses of the three road properties are combined to form the class definition of the dataset. It should be noted that the road material and unevenness are not annotated when the friction levels are fresh snow, melted snow, or ice. Also, the unevenness is not labeled for mud or gravel roads. Finally, we get 27 combined classes. Also, researchers can use part of the labeled properties to develop their own applications.
+The subclasses of the three road properties are combined to form the class definition of the dataset. But we donot demonstrate that it must be modeled as a single-label classification. Finally, we get 27 combined classes. Also, researchers can use part of the labeled properties to develop their own applications.
+It should be noted that the road material and unevenness are not annotated when the friction levels are fresh snow, melted snow, or ice. Also, the unevenness is not labeled for mud or gravel roads.
 
 ![](img/0b21fdac7d360cf991a31a85c384153f.png)
 
