@@ -1,3 +1,6 @@
+# News
+- 2023/03/22 Our research paper is accepted in IEEE T-ITS:  '*A Comprehensive Implementation of Road Surface Classification for Vehicle Driving Assistance: Dataset, Models, and Deployment*'
+
 # Background
 
 The knowledge of the road surface states is essential for improving the safety and the ride comfort of autonomous vehicles. Previewing the road conditions with vision sensor is verified to be an effective solution. However, there is still a lack of a large-scale road surface image dataset. Therefore, we publish this *Road Surface Classification Dataset (RSCD)*  containing 1 million image samples with detailed road material, friction and roughness level annotations.
