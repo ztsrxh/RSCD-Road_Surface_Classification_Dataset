@@ -1,5 +1,5 @@
 # News
-- 2023/03/22 Our research paper is accepted in IEEE T-ITS:  '*A Comprehensive Implementation of Road Surface Classification for Vehicle Driving Assistance: Dataset, Models, and Deployment*'
+- 2023/03/22 Our research paper is accepted in [IEEE T-ITS](https://ieeexplore.ieee.org/abstract/document/10101715):  '*A Comprehensive Implementation of Road Surface Classification for Vehicle Driving Assistance: Dataset, Models, and Deployment*'
 
 # Background
 
@@ -54,8 +54,7 @@ Note： Since the experiments under rainny days are hard to conduct & label and 
 
 The RSCD is completely open to academic research. To use the dataset, please cite the data artical:
 
-Tong Zhao, Yintao Wei, A road surface image dataset with detailed annotations for driving assistance applications, Data in Brief, 2022. doi: 10.1016/j.dib.2022.108483
-
+T. Zhao, et.al, "A Comprehensive Implementation of Road Surface Classification for Vehicle Driving Assistance: Dataset, Models, and Deployment," in IEEE Transactions on Intelligent Transportation Systems.
 
 # Download RSCD
 
@@ -65,9 +64,4 @@ Figshare: [Download](https://doi.org/10.6084/m9.figshare.20424582.v4)
 
 # Baseline
 
-| Backbone      | Top-1 accuracy |  GPU hours(RTX 3090) | 
-| :----------: | :-----------: |:-----------:|
-| MobilenetV3 | 87.65% | 2.5|
-| Resnet18 |  86.67%  |   2       | 
-
-The nets was simply trained based on the pre-trained weights with cross-entropy loss for 5 epoches, without any tricks.
+Please refer to our research paper.
