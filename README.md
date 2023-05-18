@@ -1,5 +1,6 @@
 # News
 - 2023/03/22 Our research paper is accepted in [IEEE T-ITS](https://ieeexplore.ieee.org/abstract/document/10101715):  '*A Comprehensive Implementation of Road Surface Classification for Vehicle Driving Assistance: Dataset, Models, and Deployment*'
+- 2022/06/10 Our dataset containing 370k samples is firstly published in [Data in Brief](https://doi.org/10.1016/j.dib.2022.108483) : A road surface image dataset with detailed annotations for driving assistance applications.
 
 # Background
 
@@ -52,7 +53,7 @@ Note： Since the experiments under rainny days are hard to conduct & label and 
 
 # How to Use
 
-The RSCD is completely open to academic research. To use the dataset, please cite the data artical:
+The RSCD is completely open to academic research. To use the dataset, please cite the paper:
 
 T. Zhao, et.al, "A Comprehensive Implementation of Road Surface Classification for Vehicle Driving Assistance: Dataset, Models, and Deployment," in IEEE Transactions on Intelligent Transportation Systems.
 
