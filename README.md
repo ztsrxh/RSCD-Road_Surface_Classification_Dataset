@@ -1,7 +1,4 @@
-<center>We have transferred this dataset to our [new website](https://thu-rsxd.com/). This page will no longer be maintained.</center>
-<div align='center'>
-    <span style="font-family: Georgia, serif; font-size: 50px">Are current autonomous vehicles really safe and comfort? </span>
-</div>
+# <center> -- We have transferred this dataset to our [new website](https://thu-rsxd.com/). This page will no longer be maintained. -- </center>
 
 # News
 - 2023/03/22 Our research paper is accepted in [IEEE T-ITS](https://ieeexplore.ieee.org/abstract/document/10101715):  '*A Comprehensive Implementation of Road Surface Classification for Vehicle Driving Assistance: Dataset, Models, and Deployment*'
